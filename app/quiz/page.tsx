@@ -328,7 +328,7 @@ export default function QuizPage() {
                   className="border rounded-lg px-3 py-2 text-sm"
                   style={{ background: 'var(--card)', borderColor: 'rgba(15, 23, 42, 0.12)', color: 'var(--text-main)' }}
                 >
-                  {[3, 5, 10, 15, 20].map(count => (
+                  {[3, 5, 8].map(count => (
                     <option key={count} value={count}>
                       {count} questions
                     </option>
