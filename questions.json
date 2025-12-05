@@ -1,0 +1,112 @@
+[
+  {
+    "question_text": "Le laboratoire a 20 vieux PC. Vous pouvez installer Linux ou acheter de nouvelles licences. Que choisissez-vous ?",
+    "question_type": "village",
+    "level": "beginner",
+    "age_group": "14-",
+    "building_id": "lab",
+    "options": [
+      {
+        "text": "Installer Linux",
+        "points": 10,
+        "feedback": "Excellent choix ! Vous économisez de l'argent et prolongez la vie des PC."
+      },
+      {
+        "text": "Acheter de nouvelles licences",
+        "points": -5,
+        "feedback": "Cela coûte cher et crée des déchets électroniques."
+      }
+    ],
+    "correct_answer": 0,
+    "points": 10
+  },
+  {
+    "question_text": "Vous cherchez des ressources pédagogiques. Que préférez-vous ?",
+    "question_type": "village",
+    "level": "beginner",
+    "age_group": "14-",
+    "building_id": "library",
+    "options": [
+      {
+        "text": "Ressources éducatives libres",
+        "points": 8,
+        "feedback": "Parfait ! Gratuit, modifiable et respectueux des données."
+      },
+      {
+        "text": "Plateformes propriétaires payantes",
+        "points": -3,
+        "feedback": "Cela crée une dépendance et des coûts récurrents."
+      }
+    ],
+    "correct_answer": 0,
+    "points": 8
+  },
+  {
+    "question_text": "Votre budget est limité. Quelle stratégie adoptez-vous ?",
+    "question_type": "village",
+    "level": "intermediate",
+    "age_group": "15-17",
+    "building_id": "cityhall",
+    "options": [
+      {
+        "text": "Reconditionner et utiliser Linux",
+        "points": 12,
+        "feedback": "Stratégie intelligente ! Économique et écologique."
+      },
+      {
+        "text": "Acheter du matériel neuf avec Windows",
+        "points": -8,
+        "feedback": "Coûteux et pas durable à long terme."
+      }
+    ],
+    "correct_answer": 0,
+    "points": 12
+  },
+  {
+    "question_text": "Comment réduire l'empreinte numérique de votre école ?",
+    "question_type": "village",
+    "level": "advanced",
+    "age_group": "18+",
+    "building_id": "eco",
+    "options": [
+      {
+        "text": "Réduire le stockage cloud et utiliser des serveurs locaux",
+        "points": 10,
+        "feedback": "Excellente décision ! Sobriété et souveraineté."
+      },
+      {
+        "text": "Utiliser plus de services cloud",
+        "points": -5,
+        "feedback": "Cela augmente la consommation d'énergie et les coûts."
+      }
+    ],
+    "correct_answer": 0,
+    "points": 10
+  },
+  {
+    "question_text": "Quelle distribution Linux est recommandée pour les écoles primaires ?",
+    "question_type": "village",
+    "level": "beginner",
+    "age_group": "14-",
+    "building_id": "lab",
+    "options": [
+      {
+        "text": "PrimTux",
+        "points": 10,
+        "feedback": "Correct ! PrimTux est spécialement conçue pour les écoles primaires."
+      },
+      {
+        "text": "Windows 11",
+        "points": -5,
+        "feedback": "Windows n'est pas une distribution Linux et coûte cher."
+      },
+      {
+        "text": "Ubuntu",
+        "points": 5,
+        "feedback": "Ubuntu fonctionne mais PrimTux est mieux adaptée pour les écoles."
+      }
+    ],
+    "correct_answer": 0,
+    "points": 10
+  }
+]
